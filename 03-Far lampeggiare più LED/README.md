@@ -27,7 +27,7 @@ Setup Hardware
 14. Collegare la porta USB di Arduino.
 
 Una volta collegato Arduino all'alimentazione, caricare nell'IDE lo sketch
-arduno-tut-03.ino ed avviarlo.
+presente nella cartella arduno-tut-03 ed avviarlo.
 
 Risultato
 ----
