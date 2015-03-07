@@ -22,7 +22,7 @@ Setup Hardware
 9. Collegare la porta USB di Arduino.
 
 Una volta collegato Arduino all'alimentazione, caricare nell'IDE lo sketch
-androtut-02.sketch ed avviarlo.
+arduno-tut-02.ino ed avviarlo.
 
 Risultato
 ----
